@@ -34,4 +34,4 @@ def pomodoro():
       print(timer, end="\r") # overwrite previous line 
       time.sleep(1)
       t -= 1 
-    print("Work Time!!")
+    print("Work Time")
